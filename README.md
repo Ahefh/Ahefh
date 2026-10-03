@@ -1,57 +1,86 @@
 <div align="center">
 
-  <h1>Hey, I'm Andrew 👋</h1>
+  <!-- Анимированный градиентный баннер с эффектом мерцания -->
+  <a href="https://github.com/Ahefh">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=230&section=header&text=Welcome%20✨&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
+  </a>
 
-  <p>
-    <b>Builder, Tinkerer & Founder @ <a href="https://github.com/NovaCore">NovaCore</a></b><br>
-    <sub>iOS tweaks, creative web apps, Lua scripting & reverse engineering.</sub>
+  <h1>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="34px" />
+    Hey, I'm <b>Andrew</b>
+  </h1>
+
+  <!-- Анимированная бегущая строка (Typing SVG) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=650&height=50&lines=Software+Engineer+%26+Creative+Developer;Crafting+Clean+Code+%26+Digital+Experiences;Always+Building%2C+Tinkering+%26+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+
+  <!-- Быстрые ссылки и контакты -->
+  <p align="center">
+    <a href="https://t.me/Dexter1938"><img src="https://img.shields.io/badge/Telegram-@Dexter1938-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="https://ahefh.github.io"><img src="https://img.shields.io/badge/Website-Portfolio-4E54C8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+    <a href="https://github.com/Ahefh?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
-  <p>
-    <a href="https://t.me/Dexter1938"><img src="https://img.shields.io/badge/Telegram-@Dexter1938-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-    <a href="https://ahefh.github.io"><img src="https://img.shields.io/badge/Website-ahefh.github.io-0d1117?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
-    <a href="https://github.com/Ahefh?tab=repositories"><img src="https://img.shields.io/badge/Projects-Public%20Repos-238636?style=flat-square&logo=github&logoColor=white" alt="GitHub Repos" /></a>
-  </p>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 </div>
 
----
+<br />
 
-### ⚡ About Me
+## 🛠️ Стек технологий
 
-* 🚀 Founder & Lead at **[NovaCore](https://github.com/NovaCore)** — IT-студия и комьюнити (веб-сервисы, боты, обучение).
-* 📱 Реверс-инжиниринг и **iOS-твики** (автор сборки [AyuGram iOS mod](https://github.com/Ahefh/ayugram-ios-tweak) с автоматическим CI/CD).
-* 🕹️ Скриптинг, моддинг и гейм-автоматизация на **Lua**.
-* 🌐 Создание интерактивных и нестандартных веб-приложений.
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,cs,html,css,react,nextjs,nodejs,tailwind,postgres,docker,linux,git,vscode,figma" alt="Tech Stack" />
+  </a>
+</div>
 
----
-
-### 🛠️ Стек & Инструменты
-
-```
-Languages    ::  JavaScript, TypeScript, Lua, Objective-C, Python, HTML/CSS
-Focus Areas  ::  iOS Tweaking, Web Engineering, Game Scripting, CI/CD Workflows
-Environment  ::  VS Code, Git, GitHub Actions, Linux
-```
+<br />
 
 ---
 
-### 📌 Избранные проекты
+## 📊 Статистика активности
 
-| Проект | Описание | Стек |
-| :--- | :--- | :--- |
-| 📱 **[ayugram-ios-tweak](https://github.com/Ahefh/ayugram-ios-tweak)** | Кастомный мод клиента AyuGram для iOS с готовым CI/CD пайплайном сборки | `Objective-C` `CI/CD` |
-| 🏢 **[NovaCore](https://github.com/NovaCore)** | IT-студия и академия: веб-приложения, боты и обучающие материалы | `Web` `Community` |
-| 🕹️ **[DaniloKolyadenko](https://github.com/Ahefh/DaniloKolyadenko)** | Продвинутые скрипты автоматизации и эксплойты | `Lua` |
-| 💻 **[status-page](https://github.com/Ahefh/status-page)** | Интерактивный веб-пранк с эмуляцией системного локскрина, аудио и эффектами | `JavaScript` `HTML/CSS` |
-| 🌐 **[ahefh.github.io](https://github.com/Ahefh/ahefh.github.io)** | Личный сайт и портфолио | `HTML/CSS` `JS` |
+<div align="center">
+
+  <!-- Карточки статистики в теме TokyoNight -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Ahefh&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="410" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahefh&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" width="370" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Streak Stats с анимированным огоньком коммитов -->
+  <br/>
+  <a href="https://github.com/Ahefh">
+    <img src="https://streak-stats.demolab.com?user=Ahefh&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" width="100%" alt="GitHub Streak" />
+  </a>
+
+</div>
+
+<br />
 
 ---
 
 <div align="center">
-  <br/>
-  <!-- Лаконичная нативная темная статистика GitHub без аляпистых цветов -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahefh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahefh&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
+  <!-- Динамическая вдохновляющая цитата -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+  <br/><br/>
+
+  <!-- Счётчик просмотров профиля -->
+  <img src="https://komarev.com/ghpvc/?username=Ahefh&style=for-the-badge&color=00f2fe&label=PROFILE+VIEWS" alt="Profile Views" />
+
+  <br/><br/>
+
+  <!-- Нижний анимированный баннер с волной -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=120&section=footer" width="100%" alt="Footer Wave" />
+
 </div>
