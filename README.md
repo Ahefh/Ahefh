@@ -115,38 +115,25 @@ Current Objective: Constructing hyper-scalable next-generation software
     <img src="https://streak-stats.demolab.com?user=Ahefh&theme=radical&hide_border=false&border_color=00F2FE&fire=FF007F&ring=00F2FE&currStreakNum=00F2FE&date_format=j%20M%5B%20Y%5D" alt="Coding Streak" width="100%" />
   </a>
 
-  <!-- График активности (Tokyo Night / Neon) -->
-  <br/><br/>
-  <a href="https://github.com/Ahefh">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahefh&theme=radical&hide_border=false&border_color=00F2FE&area=true&color=00F2FE&line=FF007F" alt="Activity Graph" width="100%" />
-  </a>
-
 </div>
 
 <br />
 
 ---
 
-## 🏆 ЗАЛ СЛАВЫ & НАГРАДЫ (ACHIEVEMENTS)
+## 🎖️ СЕРТИФИЦИРОВАННЫЕ КОМПЕТЕНЦИИ // SPECIAL OPS
 
 <div align="center">
-  <a href="https://github.com/Ahefh">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ahefh&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="100%" />
-  </a>
-</div>
-
-<br />
-
----
-
-## 🕹️ СИСТЕМА КОНТРИБЬЮЦИЙ // SNAKE PROTOCOL
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahefh/Ahefh/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahefh/Ahefh/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Ahefh/Ahefh/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
+  <p>
+    <img src="https://img.shields.io/badge/ARCHITECT-HIGH--CONCURRENCY-00F2FE?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/SECURITY-HARDENED%20KERNEL-FF007F?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/OPTIMIZATION-ZERO%20ALLOCATION-00E676?style=for-the-badge&logo=speedtest&logoColor=white&labelColor=0d1117" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/STORAGE-DISTRIBUTED%20ACID-FFAA00?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/CLEAN%20CODE-100%25%20TESTED-7928CA?style=for-the-badge&logo=pytest&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/CONTAINERS-K8S%20ORCHESTRATED-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117" />
+  </p>
 </div>
 
 <br />
