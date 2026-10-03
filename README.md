@@ -75,10 +75,6 @@
 
   <br/><br/>
 
-  <!-- Счётчик просмотров профиля -->
-  <img src="https://komarev.com/ghpvc/?username=Ahefh&style=for-the-badge&color=00f2fe&label=PROFILE+VIEWS" alt="Profile Views" />
-
-  <br/><br/>
 
   <!-- Нижний анимированный баннер с волной -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=120&section=footer" width="100%" alt="Footer Wave" />
