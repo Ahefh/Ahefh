@@ -12,7 +12,7 @@
     Приветствую в моём цифровом хабе! Я — Андрей (Ahefh)
   </h1>
 
-  <!-- 1-Я АНИМИРОВАННАЯ БЕГУЩАЯ СТРОКА: ОСНОВНЫЕ РОЛИ И КОМПЕТЕНЦИИ -->
+  <!-- 1-Я АНИМИРОВАННАЯ БЕГУЩАЯ СТРОКА: ОСНОВНЫЕ РОЛИ И СПЕЦИАЛИЗАЦИИ -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=860&height=55&lines=Software+Engineering+%E2%80%A2+System+Architecture+%E2%80%A2+Creative+Coding;Building+High-Concurrency+Backends+%26+Next-Gen+Web+Platforms;Reverse+Engineering%2C+Protocol+Analysis+%26+Low-Level+Tinkering;Turning+High-Complexity+Challenges+into+Clean%2C+Elegant+Code+%E2%9A%A1;Obsessed+with+Clean+Architecture%2C+Sub-Millisecond+Latency+%26+UX+%F0%9F%9A%80" alt="Main Typing SVG" />
   </a>
@@ -28,14 +28,12 @@
 
   <!-- НАВИГАЦИОННАЯ ПАНЕЛЬ -->
   <p align="center">
-    <a href="#-навигационное-меню"><b>Оглавление</b></a> •
     <a href="#-манифест-разработчика--инженерный-путь"><b>Манифест</b></a> •
     <a href="#-инженерная-философия--фундаментальные-принципы"><b>Философия</b></a> •
     <a href="#-архитектурные-паттерны--методологии-проектирования"><b>Архитектура</b></a> •
     <a href="#-полный-технический-арсенал--матрица-технологий"><b>Технологии</b></a> •
     <a href="#-глубокая-специализация--практические-направления"><b>Специализация</b></a> •
     <a href="#-бортовой-компьютер--статистика-активности"><b>Метрики</b></a> •
-    <a href="#-инженерные-стандарты-разработки--метрики-качества"><b>Стандарты</b></a> •
     <a href="#-рабочее-окружение--инженерный-сетап"><b>Сетап</b></a> •
     <a href="#-дорожная-карта-развития-на-20262027"><b>Планы</b></a> •
     <a href="#-библиотека-инженера-книги-сформировавшие-мышление"><b>Книги</b></a> •
@@ -45,7 +43,7 @@
 
   <br/>
 
-  <!-- БЕЙДЖИ СВЯЗИ И КОНТАКТОВ (ТОЧНЫЕ ДАННЫЕ) -->
+  <!-- БЕЙДЖИ СВЯЗИ И КОНТАКТОВ -->
   <p align="center">
     <a href="https://t.me/polish_me"><img src="https://img.shields.io/badge/Telegram-@polish__me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
     <a href="https://discord.com/users/oblivx_1337"><img src="https://img.shields.io/badge/Discord-oblivx__1337-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
@@ -60,26 +58,21 @@
 
 <br />
 
-## 🧭 Навигационное меню
-
-- [📖 Манифест разработчика & Инженерный путь](#-манифест-разработчика--инженерный-путь)
-- [⚖️ Инженерная философия & Фундаментальные принципы](#-инженерная-философия--фундаментальные-принципы)
-- [🏛️ Архитектурные паттерны & Методологии проектирования](#-архитектурные-паттерны--методологии-проектирования)
-- [🛠️ Полный технический арсенал & Матрица технологий](#-полный-технический-арсенал--матрица-технологий)
-- [🔬 Глубокая специализация & Практические направления](#-глубокая-специализация--практические-направления)
-- [📊 Бортовой компьютер & Статистика активности](#-бортовой-компьютер--статистика-активности)
-- [⚙️ Инженерные стандарты разработки & Метрики качества](#-инженерные-стандарты-разработки--метрики-качества)
-- [🖥️ Рабочее окружение & Инженерный сетап](#-рабочее-окружение--инженерный-сетап)
-- [🗺️ Дорожная карта развития на 2026/2027](#-дорожная-карта-развития-на-20262027)
-- [📚 Библиотека инженера (Книги, сформировавшие мышление)](#-библиотека-инженера-книги-сформировавшие-мышление)
-- [❓ Часто задаваемые вопросы (FAQ)](#-часто-задаваемые-вопросы-faq)
-- [🤝 Каналы связи & Сотрудничество](#-каналы-связи--сотрудничество)
+<!-- АНИМИРОВАННЫЙ БАННЕР СЕКЦИИ: МАНИФЕСТ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=120&section=header&text=📖%20МАНИФЕСТ%20РАЗРАБОТЧИКА&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" />
+</div>
 
 <br />
 
----
-
 ## 📖 Манифест разработчика & Инженерный путь
+
+<div align="center">
+  <!-- 3-Я АНИМИРОВАННАЯ БЕГУЩАЯ СТРОКА: МИССИЯ -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=900&color=FFB86C&center=true&vCenter=true&random=false&width=800&height=35&lines=%3E_MISSION%3A+Mastering+Computer+Science+from+silicon+to+cloud;%3E_APPROACH%3A+Deep+profiling%2C+zero-cost+abstractions%2C+clean+code" alt="Mission Typing SVG" />
+  </a>
+</div>
 
 Добро пожаловать в моё цифровое пространство! Программирование для меня — это не просто прикладное ремесло или профессия, а фундаментальное инженерное искусство, непрекращающееся научное исследование и страсть к конструированию изящных цифровых абстракций.
 
@@ -152,12 +145,19 @@ export const andrewProfile: SoftwareArchitectProfile = {
 
 ---
 
+<!-- АНИМИРОВАННЫЙ БАННЕР СЕКЦИИ: ФИЛОСОФИЯ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=120&section=header&text=⚖️%20ИНЖЕНЕРНАЯ%20ФИЛОСОФИЯ&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" />
+</div>
+
+<br />
+
 ## ⚖️ Инженерная философия & Фундаментальные принципы
 
 <div align="center">
-  <!-- 3-Я АНИМИРОВАННАЯ БЕГУЩАЯ СТРОКА: ЗАКОНЫ РАЗРАБОТКИ -->
+  <!-- 4-Я АНИМИРОВАННАЯ БЕГУЩАЯ СТРОКА: ЗАКОНЫ РАЗРАБОТКИ -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=900&color=FF79C6&center=true&vCenter=true&random=false&width=800&height=38&lines=%3E_Law_1%3A+Complexity+is+the+enemy+of+software+reliability;%3E_Law_2%3A+Premature+pessimization+is+an+architectural+sin;%3E_Law_3%3A+Every+microsecond+matters+at+planetary+scale" alt="Engineering Laws Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=900&color=FF79C6&center=true&vCenter=true&random=false&width=820&height=38&lines=%3E_Law_1%3A+Complexity+is+the+enemy+of+software+reliability;%3E_Law_2%3A+Premature+pessimization+is+an+architectural+sin;%3E_Law_3%3A+Every+microsecond+matters+at+planetary+scale" alt="Engineering Laws Typing SVG" />
   </a>
 </div>
 
@@ -190,6 +190,13 @@ export const andrewProfile: SoftwareArchitectProfile = {
 
 ---
 
+<!-- АНИМИРОВАННЫЙ БАННЕР СЕКЦИИ: АРХИТЕКТУРА -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=120&section=header&text=🏛️%20АРХИТЕКТУРНЫЕ%20ПАТТЕРНЫ&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" />
+</div>
+
+<br />
+
 ## 🏛️ Архитектурные паттерны & Методологии проектирования
 
 Каждый технический вызов требует индивидуального архитектурного решения. Мои ключевые шаблоны проектирования:
@@ -204,6 +211,13 @@ export const andrewProfile: SoftwareArchitectProfile = {
 <br />
 
 ---
+
+<!-- АНИМИРОВАННЫЙ БАННЕР СЕКЦИИ: СТЕК ТЕХНОЛОГИЙ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=120&section=header&text=🛠️%20ТЕХНИЧЕСКИЙ%20АРСЕНАЛ&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" />
+</div>
+
+<br />
 
 ## 🛠️ Полный технический арсенал & Матрица технологий
 
@@ -249,6 +263,13 @@ export const andrewProfile: SoftwareArchitectProfile = {
 
 ---
 
+<!-- АНИМИРОВАННЫЙ БАННЕР СЕКЦИИ: СПЕЦИАЛИЗАЦИЯ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=120&section=header&text=🔬%20ГЛУБОКАЯ%20СПЕЦИАЛИЗАЦИЯ&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" />
+</div>
+
+<br />
+
 ## 🔬 Глубокая специализация & Практические направления
 
 Ниже представлены ключевые сферы практической экспертизы и методологии, применяемые на практике:
@@ -285,6 +306,13 @@ export const andrewProfile: SoftwareArchitectProfile = {
 
 ---
 
+<!-- АНИМИРОВАННЫЙ БАННЕР СЕКЦИИ: СТАТИСТИКА -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=120&section=header&text=📊%20БОРТОВОЙ%20КОМПЬЮТЕР%20И%20МЕТРИКИ&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" />
+</div>
+
+<br />
+
 ## 📊 Бортовой компьютер & Статистика активности
 
 <div align="center">
@@ -313,6 +341,13 @@ export const andrewProfile: SoftwareArchitectProfile = {
 
 ---
 
+<!-- АНИМИРОВАННЫЙ БАННЕР СЕКЦИИ: СТАНДАРТЫ КАЧЕСТВА -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=120&section=header&text=⚙️%20СТАНДАРТЫ%20РАЗРАБОТКИ&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" />
+</div>
+
+<br />
+
 ## ⚙️ Инженерные стандарты разработки & Метрики качества
 
 В каждом репозитории поддерживается строгая система правил для обеспечения высшего качества исходного кода:
@@ -329,7 +364,21 @@ export const andrewProfile: SoftwareArchitectProfile = {
 
 ---
 
+<!-- АНИМИРОВАННЫЙ БАННЕР СЕКЦИИ: СЕТАП -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=120&section=header&text=🖥️%20РАБОЧЕЕ%20ОКРУЖЕНИЕ&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" />
+</div>
+
+<br />
+
 ## 🖥️ Рабочее окружение & Инженерный сетап
+
+<div align="center">
+  <!-- 5-Я АНИМИРОВАННАЯ БЕГУЩАЯ СТРОКА: ДИАГНОСТИКА СРЕДЫ -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=800&color=50FA7B&center=true&vCenter=true&random=false&width=750&height=35&lines=%3E_WORKSTATION%3A+Arch+Linux+%2B+Windows+11+WSL2+%5BOK%5D;%3E_SHELL%3A+Zsh+%2B+Powerlevel10k+%E2%80%A2+EDITOR%3A+Neovim+%2B+VS+Code" alt="Environment Typing SVG" />
+  </a>
+</div>
 
 Рабочая среда настроена для минимизации трения между возникновением идеи и её воплощением в коде:
 
@@ -358,10 +407,17 @@ export const andrewProfile: SoftwareArchitectProfile = {
 
 ---
 
+<!-- АНИМИРОВАННЫЙ БАННЕР СЕКЦИИ: РОАДМАП -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=120&section=header&text=🗺️%20ДОРОЖНАЯ%20КАРТА%202026/2027&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" />
+</div>
+
+<br />
+
 ## 🗺️ Дорожная карта развития на 2026/2027
 
 <div align="center">
-  <!-- 4-Я АНИМИРОВАННАЯ БЕГУЩАЯ СТРОКА: РОАДМАП СТАТУС -->
+  <!-- 6-Я АНИМИРОВАННАЯ БЕГУЩАЯ СТРОКА: РОАДМАП СТАТУС -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=780&height=40&lines=%3E_Synchronizing+Strategic+Milestones+for+2026%2F2027...;%3E_Core+Engine%3A+Rust+%26+Async+Runtimes+%5BIN_PROGRESS%5D;%3E_Distributed+Consensus+%26+WASM+Compilers+%5BALIGNED%5D" alt="Roadmap Typing SVG" />
   </a>
@@ -385,6 +441,13 @@ Q1 2026                 Q2 2026                 Q3 2026                 Q4 2026+
 
 ---
 
+<!-- АНИМИРОВАННЫЙ БАННЕР СЕКЦИИ: БИБЛИОТЕКА -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=120&section=header&text=📚%20БИБЛИОТЕКА%20ИНЖЕНЕРА&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" />
+</div>
+
+<br />
+
 ## 📚 Библиотека инженера (Книги, сформировавшие мышление)
 
 Книги, которые заложили основу моего инженерного мировоззрения и подхода к проектированию:
@@ -402,7 +465,21 @@ Q1 2026                 Q2 2026                 Q3 2026                 Q4 2026+
 
 ---
 
+<!-- АНИМИРОВАННЫЙ БАННЕР СЕКЦИИ: FAQ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=120&section=header&text=❓%20ЧАСТО%20ЗАДАВАЕМЫЕ%20ВОПРОСЫ&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" />
+</div>
+
+<br />
+
 ## ❓ Часто задаваемые вопросы (FAQ)
+
+<div align="center">
+  <!-- 7-Я АНИМИРОВАННАЯ БЕГУЩАЯ СТРОКА: ИНТЕРАКТИВНЫЙ ПОИСК -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=800&color=8BE9FD&center=true&vCenter=true&random=false&width=750&height=35&lines=%3E_Click_expandable_sections_below_to_read_insights;%3E_Architecture_%E2%80%A2_Debugging_%E2%80%A2_Mental_Models" alt="FAQ Typing SVG" />
+  </a>
+</div>
 
 <details>
   <summary><b>💬 Как ты подходишь к выбору технологий под новую задачу?</b></summary>
@@ -442,7 +519,21 @@ Q1 2026                 Q2 2026                 Q3 2026                 Q4 2026+
 
 ---
 
+<!-- АНИМИРОВАННЫЙ БАННЕР СЕКЦИИ: КОНТАКТЫ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=120&section=header&text=🤝%20КАНАЛЫ%20СВЯЗИ%20И%20СОТРУДНИЧЕСТВО&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" />
+</div>
+
+<br />
+
 ## 🤝 Каналы связи & Сотрудничество
+
+<div align="center">
+  <!-- 8-Я АНИМИРОВАННАЯ БЕГУЩАЯ СТРОКА: СТАТУС СВЯЗИ -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=800&color=50FA7B&center=true&vCenter=true&random=false&width=750&height=35&lines=%3E_DIRECT_COMMUNICATION_CHANNELS_OPEN;%3E_Ping_me_via_Telegram_or_Discord_for_collaborations" alt="Contact Typing SVG" />
+  </a>
+</div>
 
 Я открыт к сотрудничеству над амбициозными технологическими проектами, участию в интересных стартапах, обмену опытом и решению сложных нетривиальных задач.
 
@@ -468,6 +559,6 @@ Q1 2026                 Q2 2026                 Q3 2026                 Q4 2026+
   <br/><br/>
 
   <!-- НИЖНИЙ АНИМИРОВАННЫЙ БАННЕР С ПЛАВНОЙ ВОЛНОЙ И МЕРЦАНИЕМ -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=140&section=footer&animation=twinkling" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=150&section=footer&animation=twinkling" width="100%" alt="Footer Wave" />
 
 </div>
