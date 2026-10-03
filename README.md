@@ -1,25 +1,32 @@
 <div align="center">
 
-  <!-- МОНУМЕНТАЛЬНЫЙ АНИМИРОВАННЫЙ БАННЕР -->
+  <!-- ГЛАВНЫЙ АНИМИРОВАННЫЙ БАННЕР С НЕОНОВОЙ ВОЛНОЙ И МЕРЦАНИЕМ -->
   <a href="https://github.com/Ahefh">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=260&section=header&text=ANDREW%20//%20AHEFH%20✨&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20•%20SYSTEM%20ARCHITECT%20•%20TECH%20EXPLORER&descAlignY=62&descAlign=50&descSize=16&descColor=00F2FE" width="100%" alt="Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=270&section=header&text=ANDREW%20//%20AHEFH%20⚡&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20•%20SYSTEM%20ARCHITECT%20•%20CREATIVE%20TECH&descAlignY=62&descAlign=50&descSize=16&descColor=00F2FE" width="100%" alt="Header Banner" />
   </a>
 
   <br/>
 
   <h1>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36px" />
-    Приветствую в моём цифровом пространстве! Я — Андрей (Ahefh)
+    Приветствую в моём цифровом хабе! Я — Андрей (Ahefh)
   </h1>
 
-  <!-- МНОГОСТРОЧНАЯ АНИМИРОВАННАЯ БЕГУЩАЯ СТРОКА (TYPING SVG) -->
+  <!-- ПЕРВАЯ АНИМИРОВАННАЯ БЕГУЩАЯ СТРОКА (ОСНОВНЫЕ РОЛИ) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=00F2FE&center=true&vCenter=true&random=false&width=820&height=60&lines=Software+Engineering+%E2%80%A2+System+Architecture+%E2%80%A2+Creative+Coding;Building+High-Concurrency+Backends+%26+Next-Gen+Web+Apps;Reverse+Engineering%2C+Binary+Analysis+%26+Low-Level+Tinkering;Designing+Resilient+Microservices+%26+Automation+Pipelines;Turning+High-Complexity+Challenges+into+Elegant+Code+%E2%9A%A1;Obsessed+with+Clean+Architecture%2C+Zero-Lag+%26+Flawless+UX+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=850&height=55&lines=Software+Engineering+%E2%80%A2+System+Architecture+%E2%80%A2+Creative+Coding;Building+High-Concurrency+Backends+%26+Next-Gen+Web+Platforms;Reverse+Engineering%2C+Protocol+Analysis+%26+Low-Level+Tinkering;Turning+High-Complexity+Challenges+into+Clean%2C+Elegant+Code+%E2%9A%A1;Obsessed+with+Clean+Architecture%2C+Sub-Millisecond+Latency+%26+UX+%F0%9F%9A%80" alt="Main Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- НАВИГАЦИОННАЯ ПАНЕЛЬ ПРОФИЛЯ -->
+  <!-- ВТОРАЯ АНИМИРОВАННАЯ ТЕРМИНАЛЬНАЯ СТРОКА (СОСТОЯНИЕ СИСТЕМЫ В РЕАЛЬНОМ ВРЕМЕНИ) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=800&color=00E676&center=true&vCenter=true&random=false&width=800&height=35&lines=%3E_SYSTEM_STATUS%3A+%5BONLINE%5D+%E2%80%A2+KERNEL%3A+%5BOPTIMIZED%5D+%E2%80%A2+LATENCY%3A+%5B%3C1ms%5D;%3E_ACTIVE_TASKS%3A+%5BHIGH_LOAD_ARCH%5D+%E2%80%A2+MEMORY%3A+%5BZERO_ALLOCATION%5D;%3E_READY_FOR_COMPLEX_CHALLENGES+%E2%80%A2+CONTINUOUS_INTEGRATION%3A+%5B100%25%5D" alt="System Status Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- БЫСТРАЯ НАВИГАЦИЯ -->
   <p align="center">
     <a href="#-навигационное-меню"><b>Оглавление</b></a> •
     <a href="#-манифест-разработчика--инженерный-путь"><b>Манифест</b></a> •
@@ -43,6 +50,7 @@
     <a href="https://github.com/Ahefh"><img src="https://img.shields.io/badge/GitHub-Profile%20Hub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
+  <!-- АНИМИРОВАННАЯ ГРАДИЕНТНАЯ ЛИНИЯ-РАЗДЕЛИТЕЛЬ -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 </div>
@@ -317,7 +325,12 @@ export const andrewProfile: SoftwareArchitectProfile = {
 
 ## 🗺️ Дорожная карта развития на 2026/2027
 
-Постоянное саморазвитие — главный двигатель инженера. Мой долгосрочный технологический план:
+<div align="center">
+  <!-- ТРЕТЬЯ АНИМИРОВАННАЯ БЕГУЩАЯ СТРОКА: РОАДМАП СТАТУС -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=750&height=40&lines=%3E_Synchronizing+Strategic+Milestones+for+2026%2F2027...;%3E_Core+Engine%3A+Rust+%26+Async+Runtimes+%5BIN_PROGRESS%5D;%3E_Distributed+Consensus+%26+WASM+Compilers+%5BALIGNED%5D" alt="Roadmap Typing SVG" />
+  </a>
+</div>
 
 ```
 Q1 2026                 Q2 2026                 Q3 2026                 Q4 2026+
@@ -410,8 +423,7 @@ Q1 2026                 Q2 2026                 Q3 2026                 Q4 2026+
 
   <br/><br/>
 
-  <!-- НИЖНИЙ АНИМИРОВАННЫЙ БАННЕР-ВОЛНА -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=130&section=footer" width="100%" alt="Footer Wave" />
+  <!-- НИЖНИЙ АНИМИРОВАННЫЙ БАННЕР С ПЛАВНОЙ ВОЛНОЙ И МЕРЦАНИЕМ -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=140&section=footer&animation=twinkling" width="100%" alt="Footer Wave" />
 
 </div>
- 
