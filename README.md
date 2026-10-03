@@ -162,7 +162,7 @@ Current Objective: Constructing hyper-scalable next-generation software
   <br/><br/>
 
   <!-- Счётчик просмотров профиля в кибер-стиле -->
-  <img src="https://komarev.com/ghpvc/?username=Ahefh&style=for-the-badge&color=00f2fe&label=CYBER%20HITS%20&labelColor=0d1117" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ahefh&style=for-the-badge&color=00f2fe&label=CYBER%20HITS&labelColor=0d1117" alt="Profile Views" />
 
   <br/><br/>
 
