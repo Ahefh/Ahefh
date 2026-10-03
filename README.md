@@ -414,3 +414,4 @@ Q1 2026                 Q2 2026                 Q3 2026                 Q4 2026+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=130&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
+ 
